@@ -1,0 +1,42 @@
+div{
+	text-align: center;
+}
+input {
+	text-align: center;
+}
+select{
+	text-align: center;
+}
+button{
+	text-align: center;
+}
+#inputDiv {
+	padding: 25px;
+	max-width: 600px;
+  margin: 25px auto 0px;
+  position: relative;
+}
+#woDurationDiv {
+  position: absolute;
+  left: 300;
+  top: 25;
+  margin: 20px auto 20px;
+ }
+#woStyleDiv {
+  position: absolute;
+  left: 250;
+  top: 25;
+  margin: 20px auto 20px;
+}
+#woPaceDiv {
+  position: absolute;
+  left: 300;
+  top: 25;
+  margin: 20px auto 20px;
+ }
+#planButton {
+  position: absolute;
+  left: 250;
+  top: 25;
+  margin: 20px auto 20px;
+}
